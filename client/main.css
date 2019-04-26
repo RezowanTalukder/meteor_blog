@@ -1,0 +1,22 @@
+body {
+  padding: 40px;
+  font-family: sans-serif;
+  background-color: grey ;
+}
+
+h1{
+  color: aqua ;
+}
+
+.jumbotron{
+  background-color:rgb(red, rgb(0, 128, 117), rgb(0, 38, 255)) ;
+  color: black ;
+}
+
+.jumbotron .h1{
+  color: blue ;
+}
+
+.lebel{
+  color: chartreuse ;
+}
